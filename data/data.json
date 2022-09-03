@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Afelandra",
+        "img": "./img/afelandra.webp",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "name": "Hoja elegante",
+        "img": "./img/AmoenaReina.webp",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "name": "Aralia",
+        "img": "./img/aralia.webp",
+        "price": 300
+    },
+    {
+        "id": 4,
+        "name": "Chocolata",
+        "img": "./img/Chocolata.webp",
+        "price": 400
+    },
+    {
+        "id": 5,
+        "name": "Esqueleto",
+        "img": "./img/esqueleto.webp",
+        "price": 500
+    },
+    {
+        "id": 6,
+        "name": "Filodendron",
+        "img": "./img/Filodendron.webp",
+        "price": 600
+    },
+    {
+        "id": 7,
+        "name": "Helecho",
+        "img": "./img/HelechoBoston.webp",
+        "price": 600
+    },
+    {
+        "id": 8,
+        "name": "Palo de brasil",
+        "img": "./img/PaloBrasil.webp",
+        "price": 700
+    },
+    {
+        "id": 9,
+        "name": "Peperomia",
+        "img": "./img/Peperomia.webp",
+        "price": 800
+    },
+    {
+        "id": 10,
+        "name": "Sapito",
+        "img": "./img/sapo.webp",
+        "price": 900
+    },
+    {
+        "id": 11,
+        "name": "Telefono",
+        "img": "./img/telefono.webp",
+        "price": 1000
+    },
+    {
+        "id": 12,
+        "name": "Violeta",
+        "img": "./img/violeta.webp",
+        "price": 1100
+    }
+]
